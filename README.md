@@ -6,10 +6,10 @@ Homebrew maintainers [reject adding](https://github.com/Homebrew/homebrew/pull/1
 ## Install
 
 ```
-brew install hudochenkov/sshpass/sshpass
+brew install dorokhin/sshpass/sshpass
 ```
 
-Or `brew tap hudochenkov/sshpass` and then `brew install sshpass`.
+Or `brew tap dorokhin/sshpass` and then `brew install sshpass`.
 
 Or install via URL (which will not receive updates):
 
