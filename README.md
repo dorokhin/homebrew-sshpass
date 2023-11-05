@@ -14,5 +14,5 @@ Or `brew tap dorokhin/sshpass` and then `brew install sshpass`.
 Or install via URL (which will not receive updates):
 
 ```
-brew install https://raw.githubusercontent.com/hudochenkov/homebrew-sshpass/master/sshpass.rb
+brew install https://raw.githubusercontent.com/dorokhin/homebrew-sshpass/master/sshpass.rb
 ```
